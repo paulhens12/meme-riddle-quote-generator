@@ -1,0 +1,102 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: linear-gradient(to right, rgb(112, 33, 46), rgb(11, 11, 78)75%, rgb(12, 1, 1));
+}
+
+h1{
+  text-align: center;
+  margin-top: 60px;
+  color: rgb(253, 134, 60);
+}
+
+.container{
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  align-items: center;
+}
+.container .left-side{
+  width: 350px;
+  text-align: center;
+  vertical-align: bottom;
+}
+.container .right-side{
+  width: 350px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.left-side button{
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 15px;
+  text-transform: capitalize;
+  background: linear-gradient(to right, blue, black);
+  border: 2px solid aqua;
+  color: aqua;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.left-side button:not(:disabled):hover{
+  background: linear-gradient(to right, black, blue);
+  color: rgb(92, 201, 255);
+  border-radius: 10px;
+  border: 2px solid aqua;
+}
+
+.left-side button:disabled{
+  opacity: 0.2;
+  cursor: default;
+}
+
+
+.right-side{
+  font-size: 22px;
+  text-align: center;
+}
+
+
+.right-side img{
+  height: 300px;
+  max-width: 350px;
+  border-radius: 5px;
+}
+
+.right-side p{
+  color: aqua;
+  text-transform: capitalize;
+  font-size: 20px;
+  text-align: left;
+}
+
+.right-side button{
+  color: aqua;
+  margin-top: 5px;
+  padding: 10px;
+  background: linear-gradient(to right, black, blue);
+  border: 2px solid aqua;
+  transition: .5s;
+  text-transform: capitalize;
+}
+
+.right-side button:hover{
+  color: rgb(92, 201, 255);
+  border-radius: 10px;
+  background: linear-gradient(to right, blue, black);
+  cursor: pointer;
+}
+
+.right-side .riddleAnswer{
+  margin-top: 18px;
+  color: rgb(253, 134, 60);
+}
