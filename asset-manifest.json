@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/meme-riddle-quote-generator/static/css/main.b6e3857d.css",
+    "main.js": "/meme-riddle-quote-generator/static/js/main.47485cc9.js",
+    "static/media/30.jpeg": "/meme-riddle-quote-generator/static/media/30.bd5ffadab75329fee9b2.jpeg",
+    "static/media/18.jpeg": "/meme-riddle-quote-generator/static/media/18.f5fb58b036818fa82e6d.jpeg",
+    "static/media/20.jpeg": "/meme-riddle-quote-generator/static/media/20.396af66454f4a4aa4ee6.jpeg",
+    "static/media/19.jpeg": "/meme-riddle-quote-generator/static/media/19.12b66af10f68654d47ba.jpeg",
+    "static/media/17.jpeg": "/meme-riddle-quote-generator/static/media/17.8b2a421a23fb29fdb394.jpeg",
+    "static/media/1.jpeg": "/meme-riddle-quote-generator/static/media/1.451f42257a418c1e998c.jpeg",
+    "static/media/34.jpeg": "/meme-riddle-quote-generator/static/media/34.c7e258e1e78829f9563f.jpeg",
+    "static/media/49.jpeg": "/meme-riddle-quote-generator/static/media/49.8efe9b5d544851d061c9.jpeg",
+    "static/media/52.jpeg": "/meme-riddle-quote-generator/static/media/52.946e636167c17bd0f880.jpeg",
+    "static/media/2.jpeg": "/meme-riddle-quote-generator/static/media/2.fd01aae17f05b34e244d.jpeg",
+    "static/media/23.jpeg": "/meme-riddle-quote-generator/static/media/23.b53ba71ec442c4bc615f.jpeg",
+    "static/media/5.jpeg": "/meme-riddle-quote-generator/static/media/5.9afb940fb0e3116d78e6.jpeg",
+    "static/media/9.jpeg": "/meme-riddle-quote-generator/static/media/9.9db89e510c33f877e409.jpeg",
+    "static/media/47.jpeg": "/meme-riddle-quote-generator/static/media/47.bc5eabb6334f7fff397f.jpeg",
+    "static/media/7.jpeg": "/meme-riddle-quote-generator/static/media/7.ebd46d5274b4a31afbf5.jpeg",
+    "static/media/22.jpeg": "/meme-riddle-quote-generator/static/media/22.406b37d2deb108a84b35.jpeg",
+    "static/media/33.jpeg": "/meme-riddle-quote-generator/static/media/33.267c936b8aa687e2359c.jpeg",
+    "static/media/25.jpeg": "/meme-riddle-quote-generator/static/media/25.fa040d3444650948284a.jpeg",
+    "static/media/51.jpeg": "/meme-riddle-quote-generator/static/media/51.a06028a540d226517f5f.jpeg",
+    "static/media/53.jpeg": "/meme-riddle-quote-generator/static/media/53.0aa4a3b128758d315a5e.jpeg",
+    "static/media/10.jpeg": "/meme-riddle-quote-generator/static/media/10.c157c7675129bb2d576e.jpeg",
+    "static/media/42.jpeg": "/meme-riddle-quote-generator/static/media/42.0059d49a459f964b03da.jpeg",
+    "static/media/15.jpeg": "/meme-riddle-quote-generator/static/media/15.79797fb5fecdd52765ab.jpeg",
+    "static/media/44.jpeg": "/meme-riddle-quote-generator/static/media/44.a24db9f5c596220a33e7.jpeg",
+    "static/media/21.jpeg": "/meme-riddle-quote-generator/static/media/21.8ee275ea05a65bd7df5b.jpeg",
+    "static/media/48.jpeg": "/meme-riddle-quote-generator/static/media/48.13f74566963459edcc79.jpeg",
+    "static/media/46.jpeg": "/meme-riddle-quote-generator/static/media/46.63b1efb89978638105ab.jpeg",
+    "index.html": "/meme-riddle-quote-generator/index.html",
+    "main.b6e3857d.css.map": "/meme-riddle-quote-generator/static/css/main.b6e3857d.css.map",
+    "main.47485cc9.js.map": "/meme-riddle-quote-generator/static/js/main.47485cc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e3857d.css",
+    "static/js/main.47485cc9.js"
+  ]
+}
